@@ -21,8 +21,6 @@ O comando git status exibe a lista de arquivos alterados juntamente com os arqui
 O git rm pode ser usado para remover arquivos do índice e do diretório de trabalho.
 <img loading="lazy" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-![Snake animation](https://github.com/arthursath/arthursath/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
