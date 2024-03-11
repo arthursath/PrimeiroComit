@@ -1,4 +1,5 @@
-<h1>🔨 PrimeiroComit 🔨
+<h1 align="center">🔨 PrimeiroComit 🔨
+<h1 align="center">🔎Pesquisa de Comandos Git Hub🔍
 <br>
 <h2>Olá pessoal, bem vindo(a) ao meu ReadMe</h2>
 <br>
